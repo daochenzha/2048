@@ -1,7 +1,7 @@
 # 2048 game on FPGA
 ## Intro
 
-This VHDL script implements a 2048 game on a FPGA development board. I design it when conducting EDA course projects. Just for fun! See photos at the end of the file.
+This VHDL script implements a 2048 game on a FPGA development board. I design it when conducting EDA course projects. Just for fun! See the photo at the end of the file.
 
 ## Required hardware/software
 
