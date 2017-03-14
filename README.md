@@ -15,5 +15,5 @@ Altera Quartus II
 
 2048.vhd is the VHDL script, numbers.hex is hex file in which data of numbers (e.g. 2, 4, 8) are stored.
 
-
+![image](https://github.com/daochenzha/2048/blob/master/photo.JPG)
 
